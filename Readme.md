@@ -4,4 +4,4 @@ This is a list maintained by the community help people find the right wallet for
 
 ## Wallets
 
-[AirGap](https://airgap.it)
+[AirGap](/Wallets/AirGap/AirGap.md)
